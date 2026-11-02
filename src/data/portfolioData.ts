@@ -6,9 +6,9 @@ export const PERSONAL_INFO = {
   targetRole: 'Aspiring AI Solutions Architect',
   shortBio: 'Engineering high-throughput, evidence-grounded AI architectures, robust automation pipelines, and production-grade full-stack platforms.',
   location: 'Global / Remote',
-  email: 'shahshafaatrasoolo@gmail.com',
-  github: 'https://github.com',
-  linkedin: 'https://linkedin.com',
+  email: 'touseefpanjtan52@gmail.com',
+  github: 'https://github.com/touseef78286',
+  linkedin: 'https://www.linkedin.com/in/touseef-panjtan-162a04375/',
   status: 'Open to AI Solutions Architect & Systems Engineering Roles',
   stats: [
     { label: 'Pipeline Reliability', value: '99.9%' },
@@ -129,7 +129,7 @@ export const FEATURED_PROJECTS: ProjectItem[] = [
       'Constructed dead-letter queues and automated fallback models to ensure zero feed dropouts during traffic surges.',
     ],
     links: {
-      github: 'https://github.com',
+      github: 'https://github.com/touseef78286',
       live: 'https://example.com/global-problem-automation',
     },
     featured: true,
@@ -176,7 +176,7 @@ export const FEATURED_PROJECTS: ProjectItem[] = [
       'Designed an intuitive, low-cognitive-load war-room dashboard for on-call engineers under severe emergency pressure.',
     ],
     links: {
-      github: 'https://github.com',
+      github: 'https://github.com/touseef78286',
       live: 'https://example.com/signalbridge-ai',
     },
     featured: true,
@@ -223,7 +223,7 @@ export const FEATURED_PROJECTS: ProjectItem[] = [
       'Designed a frictionless multi-step booking form that reduced checkout abandonment from 38% down to 9%.',
     ],
     links: {
-      github: 'https://github.com',
+      github: 'https://github.com/touseef78286',
       live: 'https://example.com/anas-dental',
     },
     featured: true,
